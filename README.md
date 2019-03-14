@@ -1,0 +1,2 @@
+# DealerInventory
+Using the provided API here http://vautointerview.azurewebsites.net/swagger/ui/index, create a program that retrieves a datasetID, retrieves all vehicles and dealers for that dataset, and successfully posts to the answer endpoint. Each vehicle and dealer should be requested only once. You will receive a response structure when you post to the answer endpoint that describes status and total ellapsed time; your program should output this response.
